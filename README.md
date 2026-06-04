@@ -9,9 +9,8 @@
 |------|----------|
 | [docs/proposal.pdf](docs/proposal.pdf) | Описание практики и индивидуального задания |
 | [docs/variants.pdf](docs/variants.pdf) | Варианты индивидуального задания |
-| [docs/familiarization.pdf](docs/familiarization.pdf) | Ознакомительные материалы |
-| [docs/plan-grafik.pdf](docs/plan-grafik.pdf) | Шаблон плана-графика |
 | [docs/СК-СТО-ТР-04-1.005-2015.pdf](docs/СК-СТО-ТР-04-1.005-2015.pdf) | Стандарт оформления документов |
+| [docs/plan-grafik/](docs/plan-grafik/) | Планы-графики студентов |
 
 ## Структура репозитория студента
 
