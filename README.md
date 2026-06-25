@@ -31,7 +31,9 @@
 | [docs/proposal.pdf](docs/proposal.pdf)                               | Описание практики и индивидуального задания |
 | [docs/variants.pdf](docs/variants.pdf)                               | Варианты индивидуального задания            |
 | [docs/СК-СТО-ТР-04-1.005-2015.pdf](docs/СК-СТО-ТР-04-1.005-2015.pdf) | Стандарт оформления документов              |
-| [docs/plan-grafik/](docs/plan-grafik/)                               | Планы-графики студентов                     |
+| [docs/title/](docs/title/)                                          | Титульные листы отчётов студентов           |
+| [docs/zadanie/](docs/zadanie/)                                      | Индивидуальные задания студентов            |
+| [docs/plan-grafik/](docs/plan-grafik/)                              | Планы-графики студентов                     |
 
 ## Структура репозитория студента
 
